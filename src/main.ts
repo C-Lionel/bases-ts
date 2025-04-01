@@ -6,4 +6,4 @@ const app = document.querySelector<HTMLDivElement>('#app')!;
 
 app.innerHTML = `Hola Mundo`;
 
-console.log({ msg: 'Hola mundo' });
+// console.log({ msg: 'Hola mundo' });
