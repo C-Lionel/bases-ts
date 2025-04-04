@@ -21,6 +21,8 @@ const audioPlayer: AudioPlayer = {
     }
 }
 
+const dbz: string[] = ['Goku', 'Vegeta', 'Trunk'];
+
 const { author } = audioPlayer.details;
 
 console.log('Song', audioPlayer.song);
